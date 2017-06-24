@@ -21,7 +21,7 @@ ie. The following will keep 10 in each stack:
 javascript:(function(){for (var i = 0; i < 28; i += 1){var v = document.getElementsByName("v" + i)[0]; if (v.length <= 10) continue; v.value = v.length - 10; document.getElementsByName("a" + i)[0].checked = true;}})();
 ```
 
-If you only want to select a specific number of each item, you can change the code as follows (this will select 5 for each item that has more than 5 in the stack):  
+If you only want to select a specific number of each item, you can change the `v.value = ` code as follows (this will select 5 for each item that has more than 5 in the stack):  
 ```javascript
 javascript:(function(){for (var i = 0; i < 28; i += 1){var v = document.getElementsByName("v" + i)[0]; if (v.length <= 5) continue; v.value = 5; document.getElementsByName("a" + i)[0].checked = true;}})();
 ```
