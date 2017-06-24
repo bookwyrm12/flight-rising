@@ -1,5 +1,5 @@
 # flight-rising
-This repository is a place for me to share bookmarklet scripts I create for the browser game, <a href="http://www1.flightrising.com/" target="_blank">Flight Rising</a>.
+This repository is a place for me to share bookmarklet scripts I create for the browser game, [Flight Rising](http://www1.flightrising.com/).
 
 ## General usage for bookmarklet scripts
 Open your browser's bookmark manager, create a bookmark, and paste the javascript code into the URL/address/location field.
