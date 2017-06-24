@@ -29,4 +29,4 @@ javascript:(function(){for (var i = 0; i < 28; i += 1){var v = document.getEleme
 After you have the bookmarklet saved, navigate to Flight Rising's [Hoard > Food](http://flightrising.com/main.php?p=hoard) page (you must be logged in to view this page). Click your bookmark, and verify that your desired amount of items were selected in each stack. Then, click **To Vault**, **Convert**, or **Sell** as normal.
 
 ## Credits
-TODO
+**Note:** I do not own any rights to Flight Rising.
